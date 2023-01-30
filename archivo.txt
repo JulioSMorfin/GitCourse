@@ -1,2 +1,6 @@
 Primer cambio realizado
+<<<<<<< HEAD
 Segundo cambio realizado sin commit
+=======
+Cambio desde github
+>>>>>>> c7ddff377a99c04395db72fe7e0fab5f4b4f8c92
